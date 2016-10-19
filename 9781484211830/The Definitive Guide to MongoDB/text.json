@@ -1,0 +1,8 @@
+{ number : 1, body : "i like fish", about : "food" }
+{ number : 2, body : "i like soccer", about : "sport" }
+{ number : 3, body : "i like to go fishing", about : "recreation" }
+{ number : 4, body : "my favourite color is green", about : "colors" }
+{ number : 5, body : "i want to cook dinner", about : "activities" }
+{ number : 6, body : "i am cooking lunch", about : "activities" }
+{ number : 7, body : "i like mongodb text search", about : "food" }
+{ number : 8, body : "mongodb has a new text search feature", about : "food" }
